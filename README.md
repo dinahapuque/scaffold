@@ -1,0 +1,1 @@
+A React Native clean project configuration.
