@@ -18,7 +18,7 @@
     "react-native-code-push": "^6.0.0",
     "react-native-gesture-handler": "^1.5.3",
     "react-native-masked-text": "^1.13.0",
-    "react-native-reanimated": "^1.7.0",
+    "react-native-reanimated": "^2.10.0",
     "react-native-router-flux": "^4.2.0",
     "react-native-screens": "^2.0.0-alpha.32",
     "react-redux": "^7.1.3",
